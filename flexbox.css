@@ -1,0 +1,59 @@
+.back-images{
+    background-image: url('ph.avif');
+    height: 100vh auto;
+    width: 100%;
+    opacity: 1;
+}
+.personal-images{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.navbar-toggler-icon{
+    color: brown;
+}
+.per-def{
+    font-size: 20px;
+}
+.bot{
+    width: 30%;
+    margin-bottom: 50px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    font-size: medium;
+}
+.footer{
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 50vh;
+width: 100%;
+margin-top: 50px;
+
+}
+.col-xs-3{
+    text-align: center;
+}
+.com{
+    font-size: 30px;
+    cursor: pointer;
+
+}
+.com:hover{
+    background-color: #2C5364;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.card-img-top{
+    height: 30vh;
+    width: 100%;
+    margin-top: 15px;
+}
+.cards{
+    background-color:wheat
+    width: 100%;
+    margin-top: 100px;
+}
