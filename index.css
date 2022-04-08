@@ -1,3 +1,6 @@
+
+
+
 .back-images{
     background-image: url('ph.avif');
     height: 100vh auto;
@@ -53,7 +56,6 @@ margin-top: 50px;
     margin-top: 15px;
 }
 .cards{
-    background-color:wheat
     width: 100%;
     margin-top: 100px;
 }
